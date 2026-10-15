@@ -1,2 +1,1 @@
-# branches
-create, switch and merge branches
+I am learning git bash.
